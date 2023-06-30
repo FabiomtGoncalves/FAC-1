@@ -1,0 +1,13 @@
+Dados f(t)
+Mínimo: 0.5
+Máximo: 3.5
+Média: 1.9997989949748751
+Mediana: 1.98
+Desvio Padrão: 1.0607534819866153
+
+Dados ruído
+Mínimo: -0.4
+Máximo: 4.46
+Média: 2.010954773869347
+Mediana: 2.03
+Desvio Padrão: 1.2112921368071747
